@@ -11,7 +11,7 @@ chrome插件，复制segmentfault、简书等网站时去掉小尾巴
 暂不支持，插件还在审核，审核通过之后会更新地址。
 
 ### 直接下载安装
-1. 下载安装文件 
+1. 下载最新的source code https://github.com/lmikoto/copy-helper/releases
 2. 解压
 3. 复制 chrome://extensions/ 并粘贴到地址栏，按回车键进入扩展程序页面
 4. 安装插件：开发者模式 -> 加载以解压的扩展程序
