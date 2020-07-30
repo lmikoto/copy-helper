@@ -5,6 +5,7 @@ chrome插件，复制segmentfault、简书等网站时去掉小尾巴
 ## 目前支持的网站
 - segmentfault
 - 简书
+- 知乎
 
 ## 安装
 ### 通过Chrome应用市场安装

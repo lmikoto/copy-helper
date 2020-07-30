@@ -1,15 +1,16 @@
-﻿const config = [
+﻿const commonPattern = /(\s*)\n作者[\s\S]*著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。[\s\S]*$/;
+const config = [
 	{
 		url: 'segmentfault.com',
-		pattern: /(\s*)\n作者[\s\S]*著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。[\s\S]*$/
+		pattern: commonPattern
 	},
 	{
 		url: 'jianshu.com',
-		pattern: /(\s*)\n作者[\s\S]*著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。[\s\S]*$/
+		pattern: commonPattern
 	},
 	{
 		url: 'zhihu.com',
-		pattern: /(\s*)\n作者[\s\S]*著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。[\s\S]*$/
+		pattern: commonPattern
 	}
 ]
 
