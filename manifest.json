@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "copy助手",
 	"version": "1.0.0",
-	"description": "segmentfault、简书、等网站时去掉小尾巴",
+	"description": "复制segmentfault、简书等网站时去掉小尾巴",
 	"author": "lmikoto",
 	"icons":
 	{
