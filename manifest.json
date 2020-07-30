@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "copy助手",
 	"version": "1.0.0",
-	"description": "复制segmentfault、简书等网站时去掉小尾巴",
+	"description": "复制segmentfault、简书等网站时去掉网站在剪切板中添加的内容",
 	"author": "lmikoto",
 	"icons":
 	{
@@ -20,6 +20,7 @@
 			"js": ["content-script.js"]
 		}
 	],
+	"permissions": [ "https://www.jianshu.com/*","https://segmentfault.com/*" ],
 	"web_accessible_resources": 
 	[
 		"inject.js"
