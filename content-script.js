@@ -11,6 +11,10 @@ const config = [
 	{
 		url: 'zhihu.com',
 		pattern: commonPattern
+	},
+	{
+		url: 'juejin.im',
+		pattern: commonPattern
 	}
 ]
 
