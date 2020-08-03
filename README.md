@@ -1,6 +1,6 @@
 # copy-helper
 
-chrome插件，复制segmentfault、简书等网站时去掉小尾巴
+chrome插件，复制segmentfault、简书等网站内容时自动去掉小尾巴
 
 ## 目前支持的网站
 - segmentfault
@@ -10,7 +10,7 @@ chrome插件，复制segmentfault、简书等网站时去掉小尾巴
 
 ## 安装
 ### 通过Chrome应用市场安装
-暂不支持，插件还在审核，审核通过之后会更新地址。
+[安装地址](https://chrome.google.com/webstore/detail/copy%E5%8A%A9%E6%89%8B/nihmpncjcmioldgfodmmjkojpdipfbad?hl=zh-CN&authuser=0)
 
 ### 直接下载安装
 1. 下载最新的source code https://github.com/lmikoto/copy-helper/releases
